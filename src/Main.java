@@ -1,6 +1,8 @@
 /**
+
  * @author Ahmet Batuhan Yürüdür, byurudur
  * @since 2024,
+
  */
 
 import java.util.Scanner;
