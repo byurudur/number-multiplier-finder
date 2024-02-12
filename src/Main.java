@@ -1,3 +1,8 @@
+/**
+ * @author Ahmet Batuhan Yürüdür, byurudur
+ * @since 2024,
+ */
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
