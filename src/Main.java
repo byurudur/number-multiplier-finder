@@ -8,11 +8,11 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        // This code determines if the given number is a prime number or not.
+        // This code determines the multiplier numbers of the given number.
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Please type the number you want to if Prime or not: ");
+        System.out.println("Please type the number you want to split to it's multipliers. ");
 
         // number is the data that the code takes from user.
         int number = input.nextInt();
