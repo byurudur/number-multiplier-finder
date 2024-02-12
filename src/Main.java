@@ -16,7 +16,7 @@ public class Main {
         // Assume the given number is already a prime number.
         boolean isPrime = true;
 
-        // The number is not prime if it can be divided by i to itself without a remainder.
+        // The number is not prime if it can be divided by numberDivider to itself without a remainder.
         // Changing the value of our assume.
         for (int numberDivider = 2; numberDivider < number; numberDivider++) {
             if(number % numberDivider == 0){
